@@ -1,6 +1,6 @@
 # CPU Monitor & Process Manager
-![App Screenshot](Screenshot from 2025-06-29 18-07-36.png)
-![App Screenshot](Screenshot from 2025-06-29 18-07-44.png)
+![App Screenshot](Screenshot1.png)
+![App Screenshot](Screenshot2.png)
 A modern Python desktop widget for real-time system monitoring and process management.
 
 ## Features
