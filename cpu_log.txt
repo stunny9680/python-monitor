@@ -1,0 +1,242 @@
+[2025-06-29 17:50:15] CPU Speed: 400.0000 MHz, CPU Temp: 52.0°C
+[2025-06-29 17:50:21] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+[2025-06-29 17:50:27] CPU Speed: 3.5000 GHz, CPU Temp: 53.0°C
+[2025-06-29 17:50:33] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+[2025-06-29 17:50:39] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+[2025-06-29 17:50:45] CPU Speed: 3.5021 GHz, CPU Temp: 52.0°C
+[2025-06-29 17:50:52] CPU Speed: 3.4992 GHz, CPU Temp: 56.0°C
+[2025-06-29 17:52:35] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+[2025-06-29 17:52:41] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+[2025-06-29 17:52:47] CPU Speed: 3.5010 GHz, CPU Temp: 55.0°C
+[2025-06-29 17:52:53] CPU Speed: 400.0000 MHz, CPU Temp: 52.0°C
+[2025-06-29 17:53:25] CPU Speed: 3.5002 GHz, CPU Temp: 53.0°C
+Core 0: 7.2%, Core 1: 19.7%, Core 2: 82.0%, Core 3: 8.8%
+RAM: 18.7% (2356MB/15736MB)
+[2025-06-29 17:53:31] CPU Speed: 400.0000 MHz, CPU Temp: 58.0°C
+Core 0: 10.9%, Core 1: 12.2%, Core 2: 16.5%, Core 3: 27.5%
+RAM: 19.0% (2389MB/15736MB)
+[2025-06-29 17:53:37] CPU Speed: 3.5000 GHz, CPU Temp: 59.0°C
+Core 0: 13.9%, Core 1: 14.3%, Core 2: 17.4%, Core 3: 29.3%
+RAM: 18.6% (2332MB/15736MB)
+[2025-06-29 17:53:44] CPU Speed: 3.5000 GHz, CPU Temp: 57.0°C
+Core 0: 17.4%, Core 1: 12.0%, Core 2: 32.5%, Core 3: 14.1%
+RAM: 18.9% (2370MB/15736MB)
+[2025-06-29 17:53:50] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+Core 0: 15.5%, Core 1: 4.6%, Core 2: 11.8%, Core 3: 5.5%
+RAM: 18.7% (2345MB/15736MB)
+[2025-06-29 17:53:56] CPU Speed: 3.5000 GHz, CPU Temp: 56.0°C
+Core 0: 1.6%, Core 1: 1.3%, Core 2: 1.1%, Core 3: 18.8%
+RAM: 18.6% (2339MB/15736MB)
+[2025-06-29 17:54:04] CPU Speed: 400.0000 MHz, CPU Temp: 52.0°C
+Core 0: 73.2%, Core 1: 3.5%, Core 2: 24.6%, Core 3: 9.2%
+RAM: 18.2% (2272MB/15736MB)
+[2025-06-29 17:54:10] CPU Speed: 3.5012 GHz, CPU Temp: 54.0°C
+Core 0: 9.4%, Core 1: 26.0%, Core 2: 12.3%, Core 3: 11.6%
+RAM: 18.9% (2310MB/15736MB)
+[2025-06-29 17:54:17] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+Core 0: 2.4%, Core 1: 5.4%, Core 2: 6.9%, Core 3: 15.0%
+RAM: 18.4% (2310MB/15736MB)
+[2025-06-29 17:54:23] CPU Speed: 3.5006 GHz, CPU Temp: 52.0°C
+Core 0: 2.6%, Core 1: 5.0%, Core 2: 8.5%, Core 3: 18.1%
+RAM: 18.3% (2296MB/15736MB)
+[2025-06-29 17:54:29] CPU Speed: 3.5001 GHz, CPU Temp: 59.0°C
+Core 0: 14.9%, Core 1: 14.3%, Core 2: 18.1%, Core 3: 20.9%
+RAM: 19.5% (2263MB/15736MB)
+[2025-06-29 17:55:56] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 50.7%, Core 1: 7.5%, Core 2: 43.5%, Core 3: 6.2%
+RAM: 18.7% (2351MB/15736MB)
+[2025-06-29 17:56:02] CPU Speed: 3.5004 GHz, CPU Temp: 53.0°C
+Core 0: 5.7%, Core 1: 12.2%, Core 2: 9.4%, Core 3: 17.5%
+RAM: 18.7% (2348MB/15736MB)
+[2025-06-29 17:56:08] CPU Speed: 3.5001 GHz, CPU Temp: 53.0°C
+Core 0: 1.8%, Core 1: 9.4%, Core 2: 4.8%, Core 3: 12.4%
+RAM: 18.0% (2249MB/15736MB)
+[2025-06-29 17:56:14] CPU Speed: 3.5002 GHz, CPU Temp: 55.0°C
+Core 0: 13.3%, Core 1: 10.1%, Core 2: 15.0%, Core 3: 18.2%
+RAM: 18.3% (2270MB/15736MB)
+[2025-06-29 17:56:20] CPU Speed: 3.4999 GHz, CPU Temp: 53.0°C
+Core 0: 17.9%, Core 1: 4.4%, Core 2: 7.0%, Core 3: 3.7%
+RAM: 18.1% (2243MB/15736MB)
+[2025-06-29 17:56:27] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 9.8%, Core 1: 4.7%, Core 2: 13.2%, Core 3: 2.4%
+RAM: 18.1% (2242MB/15736MB)
+[2025-06-29 17:56:33] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+Core 0: 20.5%, Core 1: 10.9%, Core 2: 22.9%, Core 3: 15.2%
+RAM: 18.4% (2283MB/15736MB)
+[2025-06-29 17:56:51] CPU Speed: 3.5002 GHz, CPU Temp: 55.0°C
+Core 0: 13.6%, Core 1: 23.0%, Core 2: 17.0%, Core 3: 85.1%
+RAM: 18.9% (2367MB/15736MB)
+[2025-06-29 17:56:57] CPU Speed: 3.5002 GHz, CPU Temp: 54.0°C
+Core 0: 6.9%, Core 1: 7.0%, Core 2: 8.0%, Core 3: 24.5%
+RAM: 17.9% (2228MB/15736MB)
+[2025-06-29 17:57:04] CPU Speed: 3.5011 GHz, CPU Temp: 55.0°C
+Core 0: 2.3%, Core 1: 4.0%, Core 2: 9.0%, Core 3: 18.0%
+RAM: 18.0% (2235MB/15736MB)
+[2025-06-29 17:57:10] CPU Speed: 3.5011 GHz, CPU Temp: 54.0°C
+Core 0: 1.8%, Core 1: 3.1%, Core 2: 8.5%, Core 3: 19.6%
+RAM: 17.8% (2213MB/15736MB)
+[2025-06-29 17:57:16] CPU Speed: 3.5003 GHz, CPU Temp: 54.0°C
+Core 0: 1.6%, Core 1: 5.9%, Core 2: 5.4%, Core 3: 15.4%
+RAM: 17.9% (2223MB/15736MB)
+[2025-06-29 17:57:22] CPU Speed: 3.5001 GHz, CPU Temp: 52.0°C
+Core 0: 20.7%, Core 1: 4.7%, Core 2: 8.3%, Core 3: 4.0%
+RAM: 17.7% (2198MB/15736MB)
+[2025-06-29 17:57:28] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+Core 0: 3.0%, Core 1: 19.5%, Core 2: 8.1%, Core 3: 2.8%
+RAM: 17.8% (2202MB/15736MB)
+[2025-06-29 17:57:34] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 12.6%, Core 1: 4.2%, Core 2: 14.9%, Core 3: 3.9%
+RAM: 17.9% (2208MB/15736MB)
+[2025-06-29 17:58:18] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+Core 0: 15.8%, Core 1: 53.1%, Core 2: 10.8%, Core 3: 29.7%
+RAM: 18.6% (2337MB/15736MB)
+[2025-06-29 17:58:24] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+Core 0: 7.9%, Core 1: 14.9%, Core 2: 12.9%, Core 3: 17.3%
+RAM: 18.5% (2312MB/15736MB)
+[2025-06-29 17:58:30] CPU Speed: 3.4999 GHz, CPU Temp: 54.0°C
+Core 0: 3.9%, Core 1: 19.0%, Core 2: 7.3%, Core 3: 4.9%
+RAM: 18.0% (2237MB/15736MB)
+[2025-06-29 17:58:36] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 6.5%, Core 1: 14.1%, Core 2: 6.6%, Core 3: 1.8%
+RAM: 18.0% (2241MB/15736MB)
+[2025-06-29 17:58:42] CPU Speed: 3.5001 GHz, CPU Temp: 55.0°C
+Core 0: 2.3%, Core 1: 7.1%, Core 2: 8.0%, Core 3: 15.7%
+RAM: 17.9% (2230MB/15736MB)
+[2025-06-29 17:59:41] CPU Speed: 3.5007 GHz, CPU Temp: 52.0°C
+Core 0: 3.5%, Core 1: 10.9%, Core 2: 79.6%, Core 3: 17.8%
+RAM: 19.0% (2407MB/15736MB)
+[2025-06-29 17:59:47] CPU Speed: 3.5005 GHz, CPU Temp: 53.0°C
+Core 0: 23.4%, Core 1: 9.2%, Core 2: 15.1%, Core 3: 9.2%
+RAM: 18.3% (2285MB/15736MB)
+[2025-06-29 17:59:54] CPU Speed: 3.5001 GHz, CPU Temp: 56.0°C
+Core 0: 2.8%, Core 1: 1.8%, Core 2: 5.7%, Core 3: 19.4%
+RAM: 18.3% (2284MB/15736MB)
+[2025-06-29 18:00:00] CPU Speed: 400.0000 MHz, CPU Temp: 53.0°C
+Core 0: 15.3%, Core 1: 2.6%, Core 2: 8.6%, Core 3: 2.4%
+RAM: 18.2% (2273MB/15736MB)
+[2025-06-29 18:00:06] CPU Speed: 400.0000 MHz, CPU Temp: 56.0°C
+Core 0: 8.8%, Core 1: 3.2%, Core 2: 8.5%, Core 3: 14.8%
+RAM: 18.2% (2271MB/15736MB)
+[2025-06-29 18:00:12] CPU Speed: 400.0000 MHz, CPU Temp: 55.0°C
+Core 0: 3.3%, Core 1: 5.3%, Core 2: 6.5%, Core 3: 17.0%
+RAM: 18.2% (2268MB/15736MB)
+[2025-06-29 18:00:18] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+Core 0: 11.1%, Core 1: 11.9%, Core 2: 8.3%, Core 3: 5.1%
+RAM: 18.1% (2257MB/15736MB)
+[2025-06-29 18:00:24] CPU Speed: 3.4995 GHz, CPU Temp: 51.0°C
+Core 0: 12.3%, Core 1: 2.0%, Core 2: 15.1%, Core 3: 2.1%
+RAM: 18.3% (2278MB/15736MB)
+[2025-06-29 18:00:30] CPU Speed: 3.5002 GHz, CPU Temp: 52.0°C
+Core 0: 11.5%, Core 1: 20.8%, Core 2: 23.2%, Core 3: 15.6%
+RAM: 18.3% (2269MB/15736MB)
+[2025-06-29 18:00:37] CPU Speed: 3.5000 GHz, CPU Temp: 53.0°C
+Core 0: 4.7%, Core 1: 10.3%, Core 2: 5.9%, Core 3: 23.7%
+RAM: 18.3% (2270MB/15736MB)
+[2025-06-29 18:00:43] CPU Speed: 3.5014 GHz, CPU Temp: 54.0°C
+Core 0: 10.5%, Core 1: 7.7%, Core 2: 28.1%, Core 3: 8.5%
+RAM: 18.8% (2344MB/15736MB)
+[2025-06-29 18:00:49] CPU Speed: 3.5001 GHz, CPU Temp: 52.0°C
+Core 0: 7.5%, Core 1: 9.7%, Core 2: 7.4%, Core 3: 26.1%
+RAM: 18.8% (2362MB/15736MB)
+[2025-06-29 18:00:55] CPU Speed: 3.5002 GHz, CPU Temp: 52.0°C
+Core 0: 3.6%, Core 1: 2.8%, Core 2: 4.1%, Core 3: 17.2%
+RAM: 18.8% (2349MB/15736MB)
+[2025-06-29 18:01:01] CPU Speed: 3.5001 GHz, CPU Temp: 52.0°C
+Core 0: 15.4%, Core 1: 3.9%, Core 2: 13.8%, Core 3: 2.7%
+RAM: 18.3% (2267MB/15736MB)
+[2025-06-29 18:01:08] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 8.4%, Core 1: 9.8%, Core 2: 9.0%, Core 3: 16.7%
+RAM: 19.2% (2262MB/15736MB)
+[2025-06-29 18:01:31] CPU Speed: 3.5003 GHz, CPU Temp: 54.0°C
+Core 0: 13.7%, Core 1: 38.8%, Core 2: 16.4%, Core 3: 49.3%
+RAM: 19.1% (2412MB/15736MB)
+[2025-06-29 18:01:37] CPU Speed: 3.4986 GHz, CPU Temp: 54.0°C
+Core 0: 5.4%, Core 1: 6.9%, Core 2: 10.0%, Core 3: 21.4%
+RAM: 18.8% (2371MB/15736MB)
+[2025-06-29 18:01:43] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+Core 0: 3.1%, Core 1: 3.4%, Core 2: 4.5%, Core 3: 18.8%
+RAM: 18.8% (2369MB/15736MB)
+[2025-06-29 18:01:50] CPU Speed: 3.5002 GHz, CPU Temp: 54.0°C
+Core 0: 19.9%, Core 1: 5.4%, Core 2: 12.8%, Core 3: 7.1%
+RAM: 19.3% (2395MB/15736MB)
+[2025-06-29 18:02:55] CPU Speed: 3.5000 GHz, CPU Temp: 51.0°C
+Core 0: 69.1%, Core 1: 23.6%, Core 2: 7.2%, Core 3: 23.0%
+RAM: 19.0% (2404MB/15736MB)
+[2025-06-29 18:03:01] CPU Speed: 3.5014 GHz, CPU Temp: 53.0°C
+Core 0: 4.6%, Core 1: 5.6%, Core 2: 6.2%, Core 3: 23.1%
+RAM: 19.0% (2403MB/15736MB)
+[2025-06-29 18:03:08] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 17.5%, Core 1: 1.6%, Core 2: 5.9%, Core 3: 1.1%
+RAM: 18.3% (2283MB/15736MB)
+[2025-06-29 18:03:14] CPU Speed: 3.5001 GHz, CPU Temp: 54.0°C
+Core 0: 4.1%, Core 1: 13.3%, Core 2: 6.5%, Core 3: 9.6%
+RAM: 18.4% (2298MB/15736MB)
+[2025-06-29 18:04:13] CPU Speed: 3.5005 GHz, CPU Temp: 54.0°C
+Core 0: 9.5%, Core 1: 87.1%, Core 2: 14.6%, Core 3: 6.8%
+RAM: 19.4% (2403MB/15736MB)
+[2025-06-29 18:04:19] CPU Speed: 3.5013 GHz, CPU Temp: 56.0°C
+Core 0: 17.0%, Core 1: 9.4%, Core 2: 12.0%, Core 3: 5.0%
+RAM: 19.5% (2409MB/15736MB)
+[2025-06-29 18:04:25] CPU Speed: 3.5000 GHz, CPU Temp: 56.0°C
+Core 0: 12.5%, Core 1: 21.2%, Core 2: 15.0%, Core 3: 9.9%
+RAM: 20.0% (2310MB/15736MB)
+[2025-06-29 18:04:31] CPU Speed: 400.0000 MHz, CPU Temp: 55.0°C
+Core 0: 25.0%, Core 1: 14.8%, Core 2: 23.8%, Core 3: 14.9%
+RAM: 19.4% (2425MB/15736MB)
+[2025-06-29 18:04:37] CPU Speed: 3.5000 GHz, CPU Temp: 56.0°C
+Core 0: 3.9%, Core 1: 4.4%, Core 2: 8.5%, Core 3: 19.0%
+RAM: 19.1% (2388MB/15736MB)
+[2025-06-29 18:04:44] CPU Speed: 3.5000 GHz, CPU Temp: 55.0°C
+Core 0: 6.6%, Core 1: 23.1%, Core 2: 10.4%, Core 3: 5.2%
+RAM: 18.7% (2331MB/15736MB)
+[2025-06-29 18:04:50] CPU Speed: 3.5002 GHz, CPU Temp: 54.0°C
+Core 0: 42.6%, Core 1: 32.1%, Core 2: 35.4%, Core 3: 26.9%
+RAM: 20.9% (2568MB/15736MB)
+[2025-06-29 18:04:56] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 13.8%, Core 1: 2.9%, Core 2: 7.8%, Core 3: 1.8%
+RAM: 20.8% (2572MB/15736MB)
+[2025-06-29 18:05:02] CPU Speed: 3.5001 GHz, CPU Temp: 52.0°C
+Core 0: 3.8%, Core 1: 3.3%, Core 2: 9.3%, Core 3: 11.6%
+RAM: 20.8% (2569MB/15736MB)
+[2025-06-29 18:05:08] CPU Speed: 3.5001 GHz, CPU Temp: 61.0°C
+Core 0: 21.6%, Core 1: 37.2%, Core 2: 25.2%, Core 3: 24.1%
+RAM: 21.4% (2630MB/15736MB)
+[2025-06-29 18:05:14] CPU Speed: 3.5000 GHz, CPU Temp: 52.0°C
+Core 0: 6.1%, Core 1: 21.3%, Core 2: 6.2%, Core 3: 5.4%
+RAM: 21.3% (2630MB/15736MB)
+[2025-06-29 18:05:20] CPU Speed: 3.5001 GHz, CPU Temp: 51.0°C
+Core 0: 1.3%, Core 1: 19.1%, Core 2: 1.5%, Core 3: 1.5%
+RAM: 21.3% (2628MB/15736MB)
+[2025-06-29 18:05:27] CPU Speed: 3.5014 GHz, CPU Temp: 51.0°C
+Core 0: 3.7%, Core 1: 18.7%, Core 2: 3.7%, Core 3: 4.3%
+RAM: 21.1% (2597MB/15736MB)
+[2025-06-29 18:05:33] CPU Speed: 3.5002 GHz, CPU Temp: 54.0°C
+Core 0: 4.9%, Core 1: 7.1%, Core 2: 9.2%, Core 3: 17.7%
+RAM: 21.2% (2603MB/15736MB)
+[2025-06-29 18:07:05] CPU Speed: 3.5010 GHz, CPU Temp: 55.0°C
+Core 0: 14.9%, Core 1: 8.4%, Core 2: 77.6%, Core 3: 12.7%
+RAM: 21.2% (2641MB/15736MB)
+[2025-06-29 18:07:11] CPU Speed: 3.5013 GHz, CPU Temp: 55.0°C
+Core 0: 5.4%, Core 1: 3.9%, Core 2: 5.1%, Core 3: 21.8%
+RAM: 21.2% (2637MB/15736MB)
+[2025-06-29 18:07:17] CPU Speed: 3.5034 GHz, CPU Temp: 57.0°C
+Core 0: 3.4%, Core 1: 16.9%, Core 2: 8.2%, Core 3: 4.4%
+RAM: 21.3% (2642MB/15736MB)
+[2025-06-29 18:07:23] CPU Speed: 3.5001 GHz, CPU Temp: 55.0°C
+Core 0: 3.8%, Core 1: 3.5%, Core 2: 7.4%, Core 3: 18.8%
+RAM: 21.3% (2635MB/15736MB)
+[2025-06-29 18:07:29] CPU Speed: 3.5000 GHz, CPU Temp: 56.0°C
+Core 0: 0.7%, Core 1: 5.3%, Core 2: 7.8%, Core 3: 16.2%
+RAM: 21.2% (2621MB/15736MB)
+[2025-06-29 18:07:35] CPU Speed: 3.5000 GHz, CPU Temp: 54.0°C
+Core 0: 19.1%, Core 1: 2.0%, Core 2: 4.9%, Core 3: 1.5%
+RAM: 21.3% (2646MB/15736MB)
+[2025-06-29 18:07:42] CPU Speed: 3.5000 GHz, CPU Temp: 57.0°C
+Core 0: 16.1%, Core 1: 7.9%, Core 2: 11.1%, Core 3: 13.9%
+RAM: 21.6% (2648MB/15736MB)
+[2025-06-29 18:07:48] CPU Speed: 3.5000 GHz, CPU Temp: 56.0°C
+Core 0: 17.4%, Core 1: 25.1%, Core 2: 16.7%, Core 3: 8.4%
+RAM: 21.6% (2676MB/15736MB)
+[2025-06-29 18:07:54] CPU Speed: 3.5001 GHz, CPU Temp: 56.0°C
+Core 0: 5.7%, Core 1: 10.9%, Core 2: 11.0%, Core 3: 16.6%
+RAM: 21.5% (2671MB/15736MB)
